@@ -1,0 +1,7 @@
+Hoaxes and Hexes
+My friend sent me a meme and told me to 'look at it differently'. Tf?
+
+Solution: Just do a strings on the image file u will get the flag
+
+flag: d4rk{1m_d0wn_h3r3}c0de
+

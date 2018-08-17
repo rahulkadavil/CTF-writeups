@@ -1,0 +1,4 @@
+This is a simple stegnography problem
+To solve this open the image in stegsolve and change the value to Random colour map 2
+You will be abe to see flag on top of the image. 
+flag{w0ah_5uch_53cr3t_m355ag3} 

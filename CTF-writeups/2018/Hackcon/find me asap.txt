@@ -1,0 +1,2 @@
+Solution : You're given an text file with ascii codes convert it to char using https://www.browserling.com/tools/ascii-to-text and search for the flag 
+flag: d4rk{4sc11_n_gr3p}c0de
